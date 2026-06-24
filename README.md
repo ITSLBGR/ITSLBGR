@@ -1,98 +1,140 @@
-# Hi 👋, I'm Leorenz Bien G. Rodriguez
+<div align="center">
 
-### A Web Developer in Progress
+# 👋 Hi, I'm **Leorenz Bien G. Rodriguez**
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=itslbgr&label=Profile%20views&color=0e75b6&style=flat" alt="itslbgr" />
-</p>
+### 💻 Web Developer in Progress | 🚀 Aspiring IT Professional
 
----
+<img src="https://komarev.com/ghpvc/?username=itslbgr&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 
-## 👨‍💻 About Me
+<br/>
 
-I am **Leorenz Bien G. Rodriguez**, an aspiring **Web Developer** and IT student with a growing passion for **software development, emerging technologies, and computer hardware enhancement**.
+<img src="https://img.shields.io/badge/Learning-Laravel-red?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Focus-Web%20Development-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Interest-Artificial%20Intelligence-purple?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Lifestyle-Cycling%20%7C%20Workout-green?style=for-the-badge&logo=strava&logoColor=white" />
 
-During my free time, I enjoy:
-
-* 🎵 Listening to music
-* 💪 Working out
-* 🏠 Doing household chores
-* 🚲 Cycling
-* 💻 Fixing, upgrading, and enhancing laptops and desktop computers
-
-I believe that staying physically active helps me stay mentally sharp and productive in my studies, especially when academic workloads become demanding.
-
-I am also passionate about programming and continuously improving my skills in building modern software applications. I primarily use **Visual Studio Code** for development and I am currently focused on learning and improving my skills in **Laravel Framework**.
+</div>
 
 ---
 
-## 🎯 Career Goal
+# 🧑‍💻 About Me
 
-My goal is to become a skilled **IT professional and web developer** who can build efficient, secure, and user-friendly applications while continuously adapting to modern technologies and industry standards.
+```yaml
+name: Leorenz Bien G. Rodriguez
+role: Web Developer in Progress
+education: BSIT Student
+currently_learning:
+  - Laravel Framework
+  - Web Development
+  - Software Design & Development
+interests:
+  - Artificial Intelligence
+  - Building Modern Applications
+  - PC/Laptop Upgrading & Troubleshooting
+hobbies:
+  - Music
+  - Cycling
+  - Workout
+  - Household Chores
+goal: Become a skilled IT professional and software/web developer
+```
+
+I am **Leorenz Bien G. Rodriguez**, an aspiring **Web Developer** and IT student passionate about **software development, emerging technologies, and computer hardware enhancement**.
+
+I enjoy learning how technology works — whether it’s through **building web applications**, **exploring AI**, or **fixing and upgrading computers**. I believe staying physically active helps me remain productive, focused, and ready for demanding academic and technical work.
 
 ---
 
-## 📚 Current Learning Journey
+# 🚀 Current Focus
 
 * 🌱 Currently learning **Laravel Framework**
-* 🤖 Interested in **Artificial Intelligence (AI)** and its application in software development
-* 🛠️ Exploring software design, development, and implementation of modern applications
-* 📈 Improving problem-solving, time management, and professional work habits
+* 💻 Practicing **Web Development**
+* 🤖 Exploring **Artificial Intelligence in software development**
+* 🛠️ Improving my skills in **application design, problem-solving, and modern development practices**
+* 📈 Working on becoming more efficient in **time management and professional workflow**
 
 ---
 
-## 📝 Expectations for Applications Development and Emerging Technologies 1
+# 🧰 Tech Stack
 
-As I understand it, **Applications Development and Emerging Technologies** is a course focused on the **development, design, and implementation of modern software solutions**. I believe this subject is important because it helps students adapt to rapidly evolving technologies and encourages the creation of **digitalized, efficient, and secure systems** that improve everyday processes.
+<div align="left">
 
-### What I hope to gain from this course:
+### 🌐 Frontend
 
-* A deeper understanding of **Artificial Intelligence (AI)** and how it can be used in software development and problem-solving
-* More **hands-on experience** in designing and building software applications
-* Better **time management** and productivity as a student developer
-* Stronger skills in **problem-solving, collaboration, and professionalism**
-* Broader knowledge of **modern development practices and emerging technologies**
-
-Although I do not yet have a specific application project in mind, I am excited to explore ideas and opportunities that may emerge throughout the course.
-
-I also recognize that balancing academic responsibilities with personal concerns can be challenging at times. However, with **discipline, determination, and faith in God**, I believe I can overcome these challenges and continue growing both personally and professionally.
-
-Ultimately, I hope this subject will help me strengthen not only my technical knowledge but also my mindset as a future professional in the IT industry.
-
----
-
-## 🛠️ Languages and Tools
-
-<p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
+### ⚙️ Backend / Programming
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,python,laravel" />
+</p>
+
+### 🛠️ Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,figma,git,github,mysql" />
+</p>
+
+</div>
+
 ---
 
-## 📫 Contact Me
+# 📚 Applications Development and Emerging Technologies 1
 
-* **Email:** [rodriguezleorenzbien@gmail.com](mailto:rodriguezleorenzbien@gmail.com)
+## 🎯 My Expectations for the Course
+
+As I understand it, **Applications Development and Emerging Technologies** focuses on the **design, development, and implementation of modern software solutions**. I see this course as an opportunity to improve not only my technical knowledge but also my ability to adapt to rapidly changing technologies.
+
+### Through this course, I hope to:
+
+* Gain a deeper understanding of **Artificial Intelligence (AI)** and how it can be used in software development
+* Build more **hands-on experience** in creating software applications
+* Strengthen my **problem-solving and critical thinking** skills
+* Improve my **time management** and discipline as a student developer
+* Learn how to work with **modern technologies and professional development practices**
+
+Although I don’t have a specific application project in mind yet, I’m excited to explore new ideas and opportunities throughout the course.
+
+I understand that balancing academics and personal responsibilities can be challenging, but I believe that with **discipline, determination, and faith in God**, I can continue progressing toward my goals.
+
+Ultimately, I want this course to help me grow into a more capable, professional, and future-ready IT student.
+
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=itslbgr&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itslbgr&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🏆 Goals
+
+```txt
+[+] Improve Laravel development skills
+[+] Build more real-world projects
+[+] Learn more about AI and emerging technologies
+[+] Strengthen backend and database skills
+[+] Grow into a professional software/web developer
+```
+
+---
+
+# 📫 Connect With Me
+
+* **Email:** `rodriguezleorenzbien@gmail.com`
 * **Portfolio / Resume:** [View my experience here](https://canva.link/x4o133cy9fqmuic)
 
 ---
 
-## 🚀 Personal Note
+<div align="center">
 
-I am excited to keep learning more about **modern technologies, software development, and Artificial Intelligence**. Every project, course, and challenge is an opportunity for me to improve my skills and prepare for a future career in the tech industry.
+### ⚡ “Code, Learn, Improve, Repeat.”
+
+</div>
