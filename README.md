@@ -79,30 +79,6 @@ I enjoy learning how technology works — whether it’s through **building web 
 
 </div>
 
----
-
-# 📚 Applications Development and Emerging Technologies 1
-
-## 🎯 My Expectations for the Course
-
-As I understand it, **Applications Development and Emerging Technologies** focuses on the **design, development, and implementation of modern software solutions**. I see this course as an opportunity to improve not only my technical knowledge but also my ability to adapt to rapidly changing technologies.
-
-### Through this course, I hope to:
-
-* Gain a deeper understanding of **Artificial Intelligence (AI)** and how it can be used in software development
-* Build more **hands-on experience** in creating software applications
-* Strengthen my **problem-solving and critical thinking** skills
-* Improve my **time management** and discipline as a student developer
-* Learn how to work with **modern technologies and professional development practices**
-
-Although I don’t have a specific application project in mind yet, I’m excited to explore new ideas and opportunities throughout the course.
-
-I understand that balancing academics and personal responsibilities can be challenging, but I believe that with **discipline, determination, and faith in God**, I can continue progressing toward my goals.
-
-Ultimately, I want this course to help me grow into a more capable, professional, and future-ready IT student.
-
----
-
 # 📈 GitHub Stats
 
 <div align="center">
